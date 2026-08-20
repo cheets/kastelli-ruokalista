@@ -1,0 +1,106 @@
+{
+  "updated": "2026-08-20T13:37:05Z",
+  "source": "https://ravintolapalvelut.iss.fi/kastelli/",
+  "days": {
+    "2026-08-17": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Nakkikastike, perunat"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvisnakkikastike"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-tomaattisalaatti, kurkkusalaatti"
+        ]
+      }
+    ],
+    "2026-08-18": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Jauhelihakiusaus"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Tofu-kasviskiusaus"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Vihersalaatti"
+        ]
+      }
+    ],
+    "2026-08-19": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Broilerkeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Chili-bataattisosekeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Tomaatti, juusto"
+        ]
+      },
+      {
+        "name": "Jälkiruoka",
+        "items": [
+          "Omena"
+        ]
+      }
+    ],
+    "2026-08-20": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Lohipastavuoka"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Juustoinen pastavuoka"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-kurkku-hernesalaatti, punajuuri"
+        ]
+      }
+    ],
+    "2026-08-21": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Pinaattiohukaiset, perunasose"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Porkkana-raejuustoraaste, puolukkahillo"
+        ]
+      }
+    ]
+  }
+}

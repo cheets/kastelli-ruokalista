@@ -1,0 +1,10 @@
+# Normalize text files to LF in the repository.
+* text=auto eol=lf
+
+# iCalendar is the exception: RFC 5545 mandates CRLF line endings, and GitHub
+# Pages serves the stored blob verbatim. "-text" disables all EOL conversion so
+# the CRLF pairs survive commit and checkout regardless of core.autocrlf.
+*.ics -text
+
+# Keep test fixtures byte-identical to what the source site actually returned.
+tests/fixtures/*.html -text
