@@ -7,7 +7,7 @@ X-WR-CALNAME:Kastellin koulu – kouluruoka
 X-WR-TIMEZONE:Europe/Helsinki
 BEGIN:VEVENT
 UID:2026-08-17@kastelli-ruokalista
-DTSTAMP:20260820T133705Z
+DTSTAMP:20260822T042045Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Nakkikastike\, perunat
@@ -18,7 +18,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-18@kastelli-ruokalista
-DTSTAMP:20260820T133705Z
+DTSTAMP:20260822T042045Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:Jauhelihakiusaus
@@ -29,7 +29,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-19@kastelli-ruokalista
-DTSTAMP:20260820T133705Z
+DTSTAMP:20260822T042045Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Broilerkeitto
@@ -40,7 +40,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-20@kastelli-ruokalista
-DTSTAMP:20260820T133705Z
+DTSTAMP:20260822T042045Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Lohipastavuoka
@@ -51,13 +51,70 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-21@kastelli-ruokalista
-DTSTAMP:20260820T133705Z
+DTSTAMP:20260822T042045Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Pinaattiohukaiset\, perunasose
 DESCRIPTION:Lounas: Pinaattiohukaiset\, perunasose\nLisäkkeet: Porkkana-ra
  ejuustoraaste\, puolukkahillo
 URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-08-21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-24@kastelli-ruokalista
+DTSTAMP:20260822T042045Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Hedelmäinen curry-broilerikastike\, riisi
+DESCRIPTION:Lounas: Hedelmäinen curry-broilerikastike\, riisi\nKasvislouna
+ s: Hedelmäinen kasviscurry\nLisäkkeet: jäävuori-kukkakaali-paprikasala
+ atti
+URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-08-24
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-25@kastelli-ruokalista
+DTSTAMP:20260822T042045Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Jauhelihapihvit\, kermakastike\, perunat
+DESCRIPTION:Lounas: Jauhelihapihvit\, kermakastike\, perunat\nKasvislounas:
+  Punajuuripihvit\nLisäkkeet: jäävuori-persikka-kurkkusalaatti
+URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-08-25
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-26@kastelli-ruokalista
+DTSTAMP:20260822T042045Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Pinaattikeitto
+DESCRIPTION:Lounas: Pinaattikeitto\nLisäkkeet: Kananmuna\, juusto\, tomaat
+ ti\nJälkiruoka: Marjakiisseli
+URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-08-26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-27@kastelli-ruokalista
+DTSTAMP:20260822T042045Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Itämeren kalapihvit\, perunasose
+DESCRIPTION:Lounas: Itämeren kalapihvit\, perunasose\nKasvislounas: Kikher
+ ne-porkkanapihvit\nLisäkkeet: Jäävuori-vesimelonisalaatti\, punajuurisa
+ laatti
+URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-08-27
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28@kastelli-ruokalista
+DTSTAMP:20260822T042045Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Makaronilaatikko
+DESCRIPTION:Lounas: Makaronilaatikko\nKasvislounas: Soija-makaronilaatikko\
+ nLisäkkeet: Raastesalaatti\, ketsuppi
+URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-08-28
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

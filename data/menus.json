@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T13:37:05Z",
+  "updated": "2026-08-22T04:20:45Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-08-17": [
@@ -99,6 +99,106 @@
         "name": "Lisäkkeet",
         "items": [
           "Porkkana-raejuustoraaste, puolukkahillo"
+        ]
+      }
+    ],
+    "2026-08-24": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Hedelmäinen curry-broilerikastike, riisi"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Hedelmäinen kasviscurry"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "jäävuori-kukkakaali-paprikasalaatti"
+        ]
+      }
+    ],
+    "2026-08-25": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Jauhelihapihvit, kermakastike, perunat"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Punajuuripihvit"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "jäävuori-persikka-kurkkusalaatti"
+        ]
+      }
+    ],
+    "2026-08-26": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Pinaattikeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kananmuna, juusto, tomaatti"
+        ]
+      },
+      {
+        "name": "Jälkiruoka",
+        "items": [
+          "Marjakiisseli"
+        ]
+      }
+    ],
+    "2026-08-27": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Itämeren kalapihvit, perunasose"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kikherne-porkkanapihvit"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-vesimelonisalaatti, punajuurisalaatti"
+        ]
+      }
+    ],
+    "2026-08-28": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Makaronilaatikko"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Soija-makaronilaatikko"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Raastesalaatti, ketsuppi"
         ]
       }
     ]
