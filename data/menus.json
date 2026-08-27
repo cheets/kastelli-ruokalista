@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T04:20:45Z",
+  "updated": "2026-08-27T14:50:28Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-08-17": [
@@ -199,6 +199,100 @@
         "name": "Lisäkkeet",
         "items": [
           "Raastesalaatti, ketsuppi"
+        ]
+      }
+    ],
+    "2026-08-31": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Palvikiusaus"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Tofu-kasviskiusaus"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Höyrytetyt vihannekset, kaali-kurpitsaraaste"
+        ]
+      }
+    ],
+    "2026-09-01": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Jauhelihakeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Juustoinen kasviskeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Juusto, maustekurkku, aurinkokiisseli"
+        ]
+      }
+    ],
+    "2026-09-02": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kirjolohipyörykät, perunat, tillikastike"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvispyörykät"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Omena-coleslaw"
+        ]
+      }
+    ],
+    "2026-09-03": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Riisipuuro"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Leikkele, tomaatti, kaneli-sokeri"
+        ]
+      }
+    ],
+    "2026-09-04": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Uunimakkara, perunasose"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Soijamakkara"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-ananassalaatti, kurkkusalaatti"
         ]
       }
     ]
