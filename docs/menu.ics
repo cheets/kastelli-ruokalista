@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kastellin koulu – kouluruoka
 X-WR-TIMEZONE:Europe/Helsinki
 BEGIN:VEVENT
-UID:2026-08-18@kastelli-ruokalista
-DTSTAMP:20260827T145028Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:Jauhelihakiusaus
-DESCRIPTION:Lounas: Jauhelihakiusaus\nKasvislounas: Tofu-kasviskiusaus\nLis
- äkkeet: Vihersalaatti
-URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-08-18
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-08-19@kastelli-ruokalista
 DTSTAMP:20260827T145028Z
 DTSTART;VALUE=DATE:20260819
