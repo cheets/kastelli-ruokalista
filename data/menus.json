@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T14:50:28Z",
+  "updated": "2026-09-05T07:54:08Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-08-17": [
@@ -293,6 +293,95 @@
         "name": "Lisäkkeet",
         "items": [
           "Jäävuori-ananassalaatti, kurkkusalaatti"
+        ]
+      }
+    ],
+    "2026-09-07": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Tomaattinen pastavuoka"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-kurkku-hernesalaatti"
+        ]
+      }
+    ],
+    "2026-09-08": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Hapanimelä broilerikastike, riisi"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Hapanimelä vegekastike"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Marinoitu kaalisalaatti"
+        ]
+      }
+    ],
+    "2026-09-09": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kalakeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Juustoinen kasviskeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Tomaatti, juusto, marjakiisseli"
+        ]
+      }
+    ],
+    "2026-09-10": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Jauheliha-perunaviipalevuoka"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvisperunavuoka"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-porkkana-kukkakaalisalaatti"
+        ]
+      }
+    ],
+    "2026-09-11": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Broileripyörykät currykastikkeessa, perunat"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvispyörykät",
+          "Jäävuori-persikkasalaatti, mustaherukkahillo"
         ]
       }
     ]
