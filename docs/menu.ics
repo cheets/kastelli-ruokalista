@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kastellin koulu – kouluruoka
 X-WR-TIMEZONE:Europe/Helsinki
 BEGIN:VEVENT
-UID:2026-08-25@kastelli-ruokalista
-DTSTAMP:20260905T075408Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Jauhelihapihvit\, kermakastike\, perunat
-DESCRIPTION:Lounas: Jauhelihapihvit\, kermakastike\, perunat\nKasvislounas:
-  Punajuuripihvit\nLisäkkeet: jäävuori-persikka-kurkkusalaatti
-URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-08-25
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-08-26@kastelli-ruokalista
 DTSTAMP:20260905T075408Z
 DTSTART;VALUE=DATE:20260826
