@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kastellin koulu – kouluruoka
 X-WR-TIMEZONE:Europe/Helsinki
 BEGIN:VEVENT
-UID:2026-08-26@kastelli-ruokalista
-DTSTAMP:20260905T075408Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Pinaattikeitto
-DESCRIPTION:Lounas: Pinaattikeitto\nLisäkkeet: Kananmuna\, juusto\, tomaat
- ti\nJälkiruoka: Marjakiisseli
-URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-08-26
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-08-27@kastelli-ruokalista
 DTSTAMP:20260905T075408Z
 DTSTART;VALUE=DATE:20260827
