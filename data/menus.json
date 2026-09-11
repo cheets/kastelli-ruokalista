@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T07:54:08Z",
+  "updated": "2026-09-11T08:22:54Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-08-17": [
@@ -382,6 +382,100 @@
         "items": [
           "Kasvispyörykät",
           "Jäävuori-persikkasalaatti, mustaherukkahillo"
+        ]
+      }
+    ],
+    "2026-09-14": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Broilerkebabkastike, riisi"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Seitankebabkastike"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kaali-ananasraaste, vihreä pepperoni"
+        ]
+      }
+    ],
+    "2026-09-15": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Makkarakeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvismakkarakeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kurkku, juusto, Omena"
+        ]
+      }
+    ],
+    "2026-09-16": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kalakepukat, perunat, pinaattikastike"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasviskepukat"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Punajuuri, Jäävuori-kesäkurpitsasalaatti"
+        ]
+      }
+    ],
+    "2026-09-17": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kaalilaatikko"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasviskaalilaatikko"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Porkkana-raejuustoraaste, puolukkahillo"
+        ]
+      }
+    ],
+    "2026-09-18": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Juurespyörykät, peruna-porkkanasose, tartarkastike"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Tuoresalaatti"
         ]
       }
     ]
