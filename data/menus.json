@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T08:22:54Z",
+  "updated": "2026-09-18T08:33:56Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-08-17": [
@@ -476,6 +476,100 @@
         "name": "Lisäkkeet",
         "items": [
           "Tuoresalaatti"
+        ]
+      }
+    ],
+    "2026-09-21": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Bolognesekastike, makaroni"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvisbolognese"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kaali-kesäkurpitsa-mandariiniraaste"
+        ]
+      }
+    ],
+    "2026-09-22": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kebabkiusaus"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Vebabkiusaus"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-maissi-persikkasalaatti"
+        ]
+      }
+    ],
+    "2026-09-23": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Ohrapuuro"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Mehukeitto, kurkku, leikkele"
+        ]
+      }
+    ],
+    "2026-09-24": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Broileripastavuoka"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Soija-pastavuoka"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Porkkanaraaste, punakaali-mustaherukkasalaatti"
+        ]
+      }
+    ],
+    "2026-09-25": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kalanugetit, perunasose, sweet chili majoneesi"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvis-jalapenonugetit"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Vihersalaatti"
         ]
       }
     ]

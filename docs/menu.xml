@@ -5,11 +5,6 @@
 <link>https://ravintolapalvelut.iss.fi/kastelli/</link>
 <description />
 <item>
-<title>to 3.9.2026</title>
-<description><![CDATA[Lounas:Riisipuuro<br><br>Lisäkkeet:Leikkele, tomaatti, kaneli-sokeri]]></description>
-<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-03</guid>
-</item>
-<item>
 <title>pe 4.9.2026</title>
 <description><![CDATA[Lounas:Uunimakkara, perunasose<br><br>Kasvislounas:Soijamakkara<br><br>Lisäkkeet:Jäävuori-ananassalaatti, kurkkusalaatti]]></description>
 <guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-04</guid>
@@ -63,6 +58,31 @@
 <title>pe 18.9.2026</title>
 <description><![CDATA[Lounas:Juurespyörykät, peruna-porkkanasose, tartarkastike<br><br>Lisäkkeet:Tuoresalaatti]]></description>
 <guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-18</guid>
+</item>
+<item>
+<title>ma 21.9.2026</title>
+<description><![CDATA[Lounas:Bolognesekastike, makaroni<br><br>Kasvislounas:Kasvisbolognese<br><br>Lisäkkeet:Kaali-kesäkurpitsa-mandariiniraaste]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-21</guid>
+</item>
+<item>
+<title>ti 22.9.2026</title>
+<description><![CDATA[Lounas:Kebabkiusaus<br><br>Kasvislounas:Vebabkiusaus<br><br>Lisäkkeet:Jäävuori-maissi-persikkasalaatti]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-22</guid>
+</item>
+<item>
+<title>ke 23.9.2026</title>
+<description><![CDATA[Lounas:Ohrapuuro<br><br>Lisäkkeet:Mehukeitto, kurkku, leikkele]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-23</guid>
+</item>
+<item>
+<title>to 24.9.2026</title>
+<description><![CDATA[Lounas:Broileripastavuoka<br><br>Kasvislounas:Soija-pastavuoka<br><br>Lisäkkeet:Porkkanaraaste, punakaali-mustaherukkasalaatti]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-24</guid>
+</item>
+<item>
+<title>pe 25.9.2026</title>
+<description><![CDATA[Lounas:Kalanugetit, perunasose, sweet chili majoneesi<br><br>Kasvislounas:Kasvis-jalapenonugetit<br><br>Lisäkkeet:Vihersalaatti]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-25</guid>
 </item>
 </channel>
 </rss>
