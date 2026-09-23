@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kastellin koulu – kouluruoka
 X-WR-TIMEZONE:Europe/Helsinki
 BEGIN:VEVENT
-UID:2026-09-08@kastelli-ruokalista
-DTSTAMP:20260918T083356Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:Hapanimelä broilerikastike\, riisi
-DESCRIPTION:Lounas: Hapanimelä broilerikastike\, riisi\nKasvislounas: Hapa
- nimelä vegekastike\nLisäkkeet: Marinoitu kaalisalaatti
-URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-08
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-09@kastelli-ruokalista
 DTSTAMP:20260918T083356Z
 DTSTART;VALUE=DATE:20260909
