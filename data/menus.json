@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T08:33:56Z",
+  "updated": "2026-09-25T09:09:52Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-08-17": [
@@ -570,6 +570,100 @@
         "name": "Lisäkkeet",
         "items": [
           "Vihersalaatti"
+        ]
+      }
+    ],
+    "2026-09-28": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Makkarakastike, perunat"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvisnakkikastike"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kaali-porkkanaraaste, kurkkusalaatti"
+        ]
+      }
+    ],
+    "2026-09-29": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kirjolohikiusaus"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kreikkalainen kasviskiusaus"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-kesäkurpitsa, punajuuriviipaleet"
+        ]
+      }
+    ],
+    "2026-09-30": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Hernekeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvishernekeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Tomaattiviipaleet, pannukakku, mansikkahillo"
+        ]
+      }
+    ],
+    "2026-10-01": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Jauhelihalasagnette"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvislasagnette"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-kurkku-ananassalaatti"
+        ]
+      }
+    ],
+    "2026-10-02": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Pinaattiohukaiset, perunasose"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Vihersalaatti, puolukkahillo"
         ]
       }
     ]
