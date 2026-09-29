@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kastellin koulu – kouluruoka
 X-WR-TIMEZONE:Europe/Helsinki
 BEGIN:VEVENT
-UID:2026-09-14@kastelli-ruokalista
-DTSTAMP:20260925T090952Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Broilerkebabkastike\, riisi
-DESCRIPTION:Lounas: Broilerkebabkastike\, riisi\nKasvislounas: Seitankebabk
- astike\nLisäkkeet: Kaali-ananasraaste\, vihreä pepperoni
-URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-14
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-15@kastelli-ruokalista
 DTSTAMP:20260925T090952Z
 DTSTART;VALUE=DATE:20260915
