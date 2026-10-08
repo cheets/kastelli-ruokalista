@@ -6,16 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kastellin koulu – kouluruoka
 X-WR-TIMEZONE:Europe/Helsinki
 BEGIN:VEVENT
-UID:2026-09-23@kastelli-ruokalista
-DTSTAMP:20261005T105621Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Ohrapuuro
-DESCRIPTION:Lounas: Ohrapuuro\nLisäkkeet: Mehukeitto\, kurkku\, leikkele
-URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-23
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-24@kastelli-ruokalista
 DTSTAMP:20261005T105621Z
 DTSTART;VALUE=DATE:20260924
