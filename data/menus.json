@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T10:56:21Z",
+  "updated": "2026-10-09T10:59:03Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-08-17": [
@@ -770,6 +770,106 @@
         "name": "Lisäkkeet",
         "items": [
           "Jäävuori-kurkku-porkkanasalaatti, puolukkahillo"
+        ]
+      }
+    ],
+    "2026-10-12": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Marokkolaiset lihapullat, paahdetut perunat"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Falafelpyörykät"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-paprikasalaatti. omena-couscoussalaatti"
+        ]
+      }
+    ],
+    "2026-10-13": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Tortillat, jauheliha-kasvistäyte"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Tortillat, kasvis-paputäyte"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Vihersalaatti, salsakastike, kermaviili, pepperoniviipaleet"
+        ]
+      }
+    ],
+    "2026-10-14": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kookos-kalakeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Thaimaalainen kasviskeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Juustoviipaleet, tomaattiviipaleet, hedelmä"
+        ]
+      }
+    ],
+    "2026-10-15": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Tikka masala, riisi"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Vege tikka masala"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Indian slaw (marinoitu kaalisalaatti)"
+        ]
+      }
+    ],
+    "2026-10-16": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Lasagne"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvislasagne"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-rucola-viinirypälesalaatti"
         ]
       }
     ]
