@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kastellin koulu – kouluruoka
 X-WR-TIMEZONE:Europe/Helsinki
 BEGIN:VEVENT
-UID:2026-09-30@kastelli-ruokalista
-DTSTAMP:20261009T105903Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Hernekeitto
-DESCRIPTION:Lounas: Hernekeitto\nKasvislounas: Kasvishernekeitto\nLisäkkee
- t: Tomaattiviipaleet\, pannukakku\, mansikkahillo
-URL:https://ravintolapalvelut.iss.fi/kastelli/?date=2026-09-30
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-01@kastelli-ruokalista
 DTSTAMP:20261009T105903Z
 DTSTART;VALUE=DATE:20261001
