@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-09T10:59:03Z",
+  "updated": "2026-10-17T08:06:33Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
-    "2026-08-17": [
-      {
-        "name": "Lounas",
-        "items": [
-          "Nakkikastike, perunat"
-        ]
-      },
-      {
-        "name": "Kasvislounas",
-        "items": [
-          "Kasvisnakkikastike"
-        ]
-      },
-      {
-        "name": "Lisäkkeet",
-        "items": [
-          "Jäävuori-tomaattisalaatti, kurkkusalaatti"
-        ]
-      }
-    ],
     "2026-08-18": [
       {
         "name": "Lounas",
@@ -870,6 +850,76 @@
         "name": "Lisäkkeet",
         "items": [
           "Jäävuori-rucola-viinirypälesalaatti"
+        ]
+      }
+    ],
+    "2026-10-19": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Jauheliha-makaronilaatikko"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Raastesalaatti, ketsuppi"
+        ]
+      }
+    ],
+    "2026-10-20": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Makkarakastike, perunat"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Vihersalaatti, maustekurkku"
+        ]
+      }
+    ],
+    "2026-10-21": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Broileripyörykät, currykastike, riisi"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-maissisalaatti, mustaherukkahillo"
+        ]
+      }
+    ],
+    "2026-10-22": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kirjolohikiusaus"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-tomaattisalaatti, punajuurisalaatti"
+        ]
+      }
+    ],
+    "2026-10-23": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Pinaattiohukaiset, perunasose"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kurkku-raejuusto, puolukkahillo"
         ]
       }
     ]

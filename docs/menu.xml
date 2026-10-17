@@ -5,11 +5,6 @@
 <link>https://ravintolapalvelut.iss.fi/kastelli/</link>
 <description />
 <item>
-<title>pe 2.10.2026</title>
-<description><![CDATA[Lounas:Pinaattiohukaiset, perunasose<br><br>Lisäkkeet:Vihersalaatti, puolukkahillo]]></description>
-<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-10-02</guid>
-</item>
-<item>
 <title>ma 5.10.2026</title>
 <description><![CDATA[Lounas:Kalapihvit, perunat ja tillikastike<br><br>Kasvislounas:Kasvispihvit<br><br>Lisäkkeet:Jäävuori-paprikasalaatti, punajuuri-raejuustosalaatti]]></description>
 <guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-10-05</guid>
@@ -58,6 +53,31 @@
 <title>pe 16.10.2026</title>
 <description><![CDATA[Lounas:Lasagne<br><br>Kasvislounas:Kasvislasagne<br><br>Lisäkkeet:Jäävuori-rucola-viinirypälesalaatti]]></description>
 <guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-10-16</guid>
+</item>
+<item>
+<title>ma 19.10.2026</title>
+<description><![CDATA[Lounas:Jauheliha-makaronilaatikko<br><br>Lisäkkeet:Raastesalaatti, ketsuppi]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-10-19</guid>
+</item>
+<item>
+<title>ti 20.10.2026</title>
+<description><![CDATA[Lounas:Makkarakastike, perunat<br><br>Lisäkkeet:Vihersalaatti, maustekurkku]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-10-20</guid>
+</item>
+<item>
+<title>ke 21.10.2026</title>
+<description><![CDATA[Lounas:Broileripyörykät, currykastike, riisi<br><br>Lisäkkeet:Jäävuori-maissisalaatti, mustaherukkahillo]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-10-21</guid>
+</item>
+<item>
+<title>to 22.10.2026</title>
+<description><![CDATA[Lounas:Kirjolohikiusaus<br><br>Lisäkkeet:Jäävuori-tomaattisalaatti, punajuurisalaatti]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-10-22</guid>
+</item>
+<item>
+<title>pe 23.10.2026</title>
+<description><![CDATA[Lounas:Pinaattiohukaiset, perunasose<br><br>Lisäkkeet:Kurkku-raejuusto, puolukkahillo]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-10-23</guid>
 </item>
 </channel>
 </rss>
