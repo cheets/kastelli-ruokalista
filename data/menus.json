@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-25T08:47:12Z",
+  "updated": "2026-10-26T09:27:00Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
-    "2026-08-26": [
-      {
-        "name": "Lounas",
-        "items": [
-          "Pinaattikeitto"
-        ]
-      },
-      {
-        "name": "Lisäkkeet",
-        "items": [
-          "Kananmuna, juusto, tomaatti"
-        ]
-      },
-      {
-        "name": "Jälkiruoka",
-        "items": [
-          "Marjakiisseli"
-        ]
-      }
-    ],
     "2026-08-27": [
       {
         "name": "Lounas",
@@ -800,6 +780,106 @@
         "name": "Lisäkkeet",
         "items": [
           "Kurkku-raejuusto, puolukkahillo"
+        ]
+      }
+    ],
+    "2026-10-26": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Broilerkebabkastike, riisi"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Seitankebabkastike"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kaali-ananasraaste, vihreät pepperonit"
+        ]
+      }
+    ],
+    "2026-10-27": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Makkarakeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvismakkarakeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kurkku, juusto"
+        ]
+      }
+    ],
+    "2026-10-28": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Tomaattinen kasvispastavuoka"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Porkkana-mandariiniraaste, jäävuorisalaatti"
+        ]
+      }
+    ],
+    "2026-10-29": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Juustoinen kalavuoka, perunasose"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Juustoinen kasvisvuoka"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-herne-tomaattisalaatti"
+        ]
+      }
+    ],
+    "2026-10-30": [
+      {
+        "name": "Halloween - Lounas",
+        "items": [
+          "Kastellin kummituksen herkkupata ( Italianpata)"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kastellin kummituksen kasvispata"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kurpitsapeikon salaatti"
+        ]
+      },
+      {
+        "name": "Jälkiruoka",
+        "items": [
+          "Lepakon lakritsiunelma ( Sitrus-lakritsirahka)"
         ]
       }
     ]
