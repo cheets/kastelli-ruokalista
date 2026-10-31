@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-28T10:06:43Z",
+  "updated": "2026-10-31T10:00:12Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
-    "2026-08-31": [
-      {
-        "name": "Lounas",
-        "items": [
-          "Palvikiusaus"
-        ]
-      },
-      {
-        "name": "Kasvislounas",
-        "items": [
-          "Tofu-kasviskiusaus"
-        ]
-      },
-      {
-        "name": "Lisäkkeet",
-        "items": [
-          "Höyrytetyt vihannekset, kaali-kurpitsaraaste"
-        ]
-      }
-    ],
     "2026-09-01": [
       {
         "name": "Lounas",
@@ -840,6 +820,100 @@
         "name": "Jälkiruoka",
         "items": [
           "Lepakon lakritsiunelma ( Sitrus-lakritsirahka)"
+        ]
+      }
+    ],
+    "2026-11-02": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Texmex-broilerikiusaus"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Texmex-kasviskiusaus"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kaali-keäkurpitsa-mandariiniraaste"
+        ]
+      }
+    ],
+    "2026-11-03": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Ohrapuuro"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Mehukeitto, kurkkuviipaleet, leikkele"
+        ]
+      }
+    ],
+    "2026-11-04": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Marokkolaiset lihapullat, paahdetut perunat"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Falafelpyörykät"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-paprikasalaatti, omena-couscoussalaatti"
+        ]
+      }
+    ],
+    "2026-11-05": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Palvipastavuoka"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Soija-pastavuoka"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-tomaatti-persikkasalaatti"
+        ]
+      }
+    ],
+    "2026-11-06": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kalanugetit, perunasose, sweet chili majoneesi"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Vegenugetit"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Vihersalaatti, punajuuri"
         ]
       }
     ]
