@@ -1,21 +1,7 @@
 {
-  "updated": "2026-11-04T11:41:09Z",
+  "updated": "2026-11-07T10:45:49Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
-    "2026-09-07": [
-      {
-        "name": "Lounas",
-        "items": [
-          "Tomaattinen pastavuoka"
-        ]
-      },
-      {
-        "name": "Lisäkkeet",
-        "items": [
-          "Jäävuori-kurkku-hernesalaatti"
-        ]
-      }
-    ],
     "2026-09-08": [
       {
         "name": "Lounas",
@@ -840,6 +826,112 @@
         "name": "Lisäkkeet",
         "items": [
           "Vihersalaatti, punajuuri"
+        ]
+      }
+    ],
+    "2026-11-09": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Nakkikastike, perunat"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvisnakkikastike"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-tomaattisalaatti, kurkkusalaatti"
+        ]
+      }
+    ],
+    "2026-11-10": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Jauhelihalasagnette"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvislasagnette"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Vihersalaatti"
+        ]
+      }
+    ],
+    "2026-11-11": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Lohipyörykät, perunat, tillikastike"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvispyörykät"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Punajuuri, porkkana-lantturaaste"
+        ]
+      }
+    ],
+    "2026-11-12": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Hernekeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Soija-hernekeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Tomaatti"
+        ]
+      },
+      {
+        "name": "Jälkiruoka",
+        "items": [
+          "Pannukakku ja hillo"
+        ]
+      }
+    ],
+    "2026-11-13": [
+      {
+        "name": "Lounas Päiväkodin toiveruoka",
+        "items": [
+          "Lihapullat, kermakastike, perunasose"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvispihvit"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Vihersalaatti, puolukkahillo"
         ]
       }
     ]
