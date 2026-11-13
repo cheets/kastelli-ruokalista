@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:31:09Z",
+  "updated": "2026-11-13T11:40:34Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-09-14": [
@@ -857,6 +857,100 @@
         "name": "Lisäkkeet",
         "items": [
           "Vihersalaatti, puolukkahillo"
+        ]
+      }
+    ],
+    "2026-11-16": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Butterchicken, tumma riisi"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Buttertofu"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Marinoitu kaalisalaatti"
+        ]
+      }
+    ],
+    "2026-11-17": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kalapuikot, perunat, tartar-kastike"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Juures-voipapupyörykät"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-kukkakaali-tomaattisalaatti"
+        ]
+      }
+    ],
+    "2026-11-18": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Makaronilaatikko"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Soija-makaronilaatikko"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Raastesalaatti, ketsuppi"
+        ]
+      }
+    ],
+    "2026-11-19": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Broilerkeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Chili-bataattisosekeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Juusto, maustekurkku, omenalohkot"
+        ]
+      }
+    ],
+    "2026-11-20": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Pinaattiohukaiset, perunasose"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kurkku-raejuustosalaatti, puolukkahillo"
         ]
       }
     ]
