@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T12:24:28Z",
+  "updated": "2026-11-20T12:17:41Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-09-21": [
@@ -857,6 +857,100 @@
         "name": "Lisäkkeet",
         "items": [
           "Kurkku-raejuustosalaatti, puolukkahillo"
+        ]
+      }
+    ],
+    "2026-11-23": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Palvikiusaus"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Tofu-kasviskiusaus"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Höyrytetyt vihannekset, kaali-kurpitsaraaste"
+        ]
+      }
+    ],
+    "2026-11-24": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Jauhelihakeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Juustoinen kasviskeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Tomaattiviipaleet, juusto, marjakiisseli"
+        ]
+      }
+    ],
+    "2026-11-25": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Tonnikalapastavuoka"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvispastavuoka"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Porkkanaraaste, punajuuri-omenasalaatti"
+        ]
+      }
+    ],
+    "2026-11-26": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Uunimakkara, perunasose"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Soijamakkara"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Vihersalaatti"
+        ]
+      }
+    ],
+    "2026-11-27": [
+      {
+        "name": "Lounas, ADVENTTIPUURO",
+        "items": [
+          "Riisipuuro, kaneli-sokeri"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kurkkuviipaleet, leikkele"
         ]
       }
     ]

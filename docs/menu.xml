@@ -5,11 +5,6 @@
 <link>https://ravintolapalvelut.iss.fi/kastelli/</link>
 <description />
 <item>
-<title>to 5.11.2026</title>
-<description><![CDATA[Lounas:Palvipastavuoka<br><br>Kasvislounas:Soija-pastavuoka<br><br>Lisäkkeet:Jäävuori-tomaatti-persikkasalaatti]]></description>
-<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-11-05</guid>
-</item>
-<item>
 <title>pe 6.11.2026</title>
 <description><![CDATA[Lounas:Kalanugetit, perunasose, sweet chili majoneesi<br><br>Kasvislounas:Vegenugetit<br><br>Lisäkkeet:Vihersalaatti, punajuuri]]></description>
 <guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-11-06</guid>
@@ -63,6 +58,31 @@
 <title>pe 20.11.2026</title>
 <description><![CDATA[Lounas:Pinaattiohukaiset, perunasose<br><br>Lisäkkeet:Kurkku-raejuustosalaatti, puolukkahillo]]></description>
 <guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-11-20</guid>
+</item>
+<item>
+<title>ma 23.11.2026</title>
+<description><![CDATA[Lounas:Palvikiusaus<br><br>Kasvislounas:Tofu-kasviskiusaus<br><br>Lisäkkeet:Höyrytetyt vihannekset, kaali-kurpitsaraaste]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-11-23</guid>
+</item>
+<item>
+<title>ti 24.11.2026</title>
+<description><![CDATA[Lounas:Jauhelihakeitto<br><br>Kasvislounas:Juustoinen kasviskeitto<br><br>Lisäkkeet:Tomaattiviipaleet, juusto, marjakiisseli]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-11-24</guid>
+</item>
+<item>
+<title>ke 25.11.2026</title>
+<description><![CDATA[Lounas:Tonnikalapastavuoka<br><br>Kasvislounas:Kasvispastavuoka<br><br>Lisäkkeet:Porkkanaraaste, punajuuri-omenasalaatti]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-11-25</guid>
+</item>
+<item>
+<title>to 26.11.2026</title>
+<description><![CDATA[Lounas:Uunimakkara, perunasose<br><br>Kasvislounas:Soijamakkara<br><br>Lisäkkeet:Vihersalaatti]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-11-26</guid>
+</item>
+<item>
+<title>pe 27.11.2026</title>
+<description><![CDATA[Lisäkkeet:Kurkkuviipaleet, leikkele<br><br>Lounas, ADVENTTIPUURO:Riisipuuro, kaneli-sokeri]]></description>
+<guid isPermaLink="false">https://ravintolapalvelut.iss.fi/kastelli/?date=2026-11-27</guid>
 </item>
 </channel>
 </rss>
