@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:41:19Z",
+  "updated": "2026-11-26T13:19:33Z",
   "source": "https://ravintolapalvelut.iss.fi/kastelli/",
   "days": {
     "2026-09-28": [
@@ -857,6 +857,100 @@
         "name": "Lisäkkeet",
         "items": [
           "Kurkkuviipaleet, leikkele"
+        ]
+      }
+    ],
+    "2026-11-30": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Jauhelihakiusaus"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasviskiusaus"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kaali-porkkana-ananasraaste"
+        ]
+      }
+    ],
+    "2026-12-01": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Hapanimelä broilerikastike, riisi"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Hapanimelä vegekastike"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-kesäkurpitsa-maissisalaatti"
+        ]
+      }
+    ],
+    "2026-12-02": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Kalakeitto"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvissosekeitto"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Kurkkuviipaleet, juustoviipaleet"
+        ]
+      }
+    ],
+    "2026-12-03": [
+      {
+        "name": "Itsenäisyyspäivän lounas",
+        "items": [
+          "Palapaisti, keitetyt perunat"
+        ]
+      },
+      {
+        "name": "Kasvislounas",
+        "items": [
+          "Kasvispaistos"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Lämmin kasvislisäke, vihersalaatti, mustikkakiisseli"
+        ]
+      }
+    ],
+    "2026-12-04": [
+      {
+        "name": "Lounas",
+        "items": [
+          "Tomaattinen kasvispastavuoka"
+        ]
+      },
+      {
+        "name": "Lisäkkeet",
+        "items": [
+          "Jäävuori-kurkku-hernesalaatti"
         ]
       }
     ]
